@@ -23,7 +23,7 @@ class BookList extends Component {
 }
 
 function mapStateToProps(state){
-  //will show up props whatever is returned by this function
+  //will show up as props whatever is returned by this function
   //Booklist function
   //this function is the glue between react and redux
   return {
